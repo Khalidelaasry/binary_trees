@@ -74,3 +74,4 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 ## Acknowledgements
 
 This project is part of the ALX Software Engineering program. Special thanks to the ALX community and instructors for their support and guidance.
+
